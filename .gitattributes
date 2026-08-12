@@ -1,0 +1,13 @@
+# Normalize line endings
+# Configuration for git attributes
+*.svg text
+*.json linguist-detectable=false
+*.go linguist-detectable
+Cargo.lock linguist-generated
+*.min.css linguist-generated   
+*.png binary
+public/* linguist-vendored
+yarn.lock linguist-generated 
+*.sh text eol=lf
+
+# eof 5f082d5e
