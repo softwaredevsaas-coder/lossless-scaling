@@ -1,0 +1,7 @@
+go.sum
+*.test
+*.dll
+*.exe
+*.dylib
+*.out
+*.exe~
